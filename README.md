@@ -1,0 +1,3 @@
+# Aceleradev DataScience 
+
+Em breve os desafios serão postados...
