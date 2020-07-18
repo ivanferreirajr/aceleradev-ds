@@ -1,6 +1,6 @@
-<h4 align="center">
+<h1 align="center">
   AceleraDev - Data Science 📊🚀
-</h4>
+</h1>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ivanferreirajr/aceleradev-ds">
