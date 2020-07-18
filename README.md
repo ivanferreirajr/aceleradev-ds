@@ -19,9 +19,14 @@
 </p>
 
 
-## Desafios
+## Projetos
 
-Em breve...
+### [Semana 2](https://github.com/ivanferreirajr/aceleradev-ds)
+- Desafio-00: Manipulação de um dataset com dados da *Black Friday* utilizando `Pandas`.
+
+### [Semana 3](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-01)
+- Desafio-01: Analise de crédito utilizando estatística descritiva (média, mediana, moda e desvio padrão). Por fim, retornar o resultado em um arquivo com o formato `json` 
+
 
 ---
 Estes desafios fazem parte da aceleração da [Codenation](https://www.codenation.dev/).
