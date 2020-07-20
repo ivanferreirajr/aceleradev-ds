@@ -26,6 +26,8 @@
 ### [Semana 4](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-02)
 - Desafio-02:  Explorar as principais funções sobre distribuições de probabilidade como PDF, CDF e quantis e as relações entre duas das principais distribuições: a normal e a binomial.
 
+### [Semana 5](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-03)
+- Desafio-03: Explorar algumas funções de testes de hipóteses disponíveis mo SciPy com um dataset da Olimpíadas de 2016.
 
 ---
 Estes desafios fazem parte da aceleração da [Codenation](https://www.codenation.dev/).
