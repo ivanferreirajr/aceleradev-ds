@@ -29,5 +29,8 @@
 ### [Semana 5](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-03)
 - Desafio-03: Explorar algumas funções de testes de hipóteses disponíveis mo SciPy com um dataset da Olimpíadas de 2016.
 
+### [Semana 6](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-04)
+- Desafio-04: Explorar a redução de dimensionalidade com PCA e seleção de variáveis com RFE. Para isso, foi utilizado o dataset do game FIFA 2019.
+
 ---
 Estes desafios fazem parte da aceleração da [Codenation](https://www.codenation.dev/).
