@@ -33,7 +33,7 @@
 - Desafio-04: Explorar a redução de dimensionalidade com PCA e seleção de variáveis com RFE. Para isso, foi utilizado o dataset do game FIFA 2019.
 
 ### [Semana 7](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-05)
-- Desafio-05: Adquirir conhecimento e prática nas ferramentas mais usuais de `feature engineering` (engenharia de variáveis).
+- Desafio-05: Adquirir conhecimento e prática nas ferramentas mais usuais de *Feature Engineering* (Engenharia de Variáveis).
 
 ---
 Estes desafios fazem parte da aceleração da [Codenation](https://www.codenation.dev/).
