@@ -24,13 +24,16 @@
 - Desafio-01: Analise de crédito utilizando estatística descritiva (média, mediana, moda e desvio padrão). Por fim, retornar o resultado em um arquivo com o formato `json`.
 
 ### [Semana 4](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-02)
-- Desafio-02:  Explorar as principais funções sobre distribuições de probabilidade como PDF, CDF e quantis e as relações entre duas das principais distribuições: a normal e a binomial.
+- Desafio-02: Explorar as principais funções sobre distribuições de probabilidade como PDF, CDF e quantis e as relações entre duas das principais distribuições: a normal e a binomial.
 
 ### [Semana 5](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-03)
 - Desafio-03: Explorar algumas funções de testes de hipóteses disponíveis mo SciPy com um dataset da Olimpíadas de 2016.
 
 ### [Semana 6](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-04)
 - Desafio-04: Explorar a redução de dimensionalidade com PCA e seleção de variáveis com RFE. Para isso, foi utilizado o dataset do game FIFA 2019.
+
+### [Semana 7](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-05)
+- Desafio-05: Adquirir conhecimento e prática nas ferramentas mais usuais de `feature engineering` (engenharia de variáveis).
 
 ---
 Estes desafios fazem parte da aceleração da [Codenation](https://www.codenation.dev/).
