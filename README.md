@@ -35,5 +35,8 @@
 ### [Semana 7](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-05)
 - Desafio-05: Adquirir conhecimento e prática nas ferramentas mais usuais de *Feature Engineering* (Engenharia de Variáveis).
 
+### [Semana 8](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-06)
+- Desafio-06: Criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. 
+
 ---
 Estes desafios fazem parte da aceleração da [Codenation](https://www.codenation.dev/).
