@@ -38,5 +38,8 @@
 ### [Semana 8](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-06)
 - Desafio-06: Criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. 
 
+### [Semana 9](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-07)
+- Desafio-07: Descobrir quais estudantes estão fazendo a prova do ENEM 2016 apenas para treino.
+
 ---
 Estes desafios fazem parte da aceleração da [Codenation](https://www.codenation.dev/).
