@@ -14,8 +14,11 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
+O AceleraDev é um programa de capacitação para profissionais de tecnologia realizado pela q[Codenation](https://www.codenation.dev/). Durante 10 semanas, devs e cientistas de dados têm acesso a desafios, conteúdos e à Comunidade Codenation para adquirirem e praticarem as habilidades técnicas mais utilizadas por empresas de tecnologia de todo o mundo.
 
-## Projetos
+---
+
+## Desafios
 
 ### [Semana 2](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-00)
 - Desafio-00: Manipulação de um dataset com dados da *Black Friday* utilizando `Pandas`.
@@ -41,5 +44,3 @@
 ### [Semana 9](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-07)
 - Desafio-07: Descobrir quais estudantes estão fazendo a prova do ENEM 2016 apenas para treino.
 
----
-Estes desafios fazem parte da aceleração da [Codenation](https://www.codenation.dev/).
