@@ -44,3 +44,5 @@ O AceleraDev é um programa de capacitação para profissionais de tecnologia re
 ### [Semana 9](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-07)
 - Desafio-07: Descobrir quais estudantes estão fazendo a prova do ENEM 2016 apenas para treino.
 
+### [Semana 10](https://github.com/ivanferreirajr/aceleradev-ds)
+- Projeto Final: Em breve...
