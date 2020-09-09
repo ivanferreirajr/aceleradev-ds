@@ -7,10 +7,6 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ivanferreirajr/aceleradev-ds">
 
-  <a href="https://github.com/ivanferreirajr/be-the-hero/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ivanferreirajr/aceleradev-ds">
-  </a>
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
@@ -44,5 +40,5 @@ O AceleraDev é um programa de capacitação para profissionais de tecnologia re
 ### [Semana 9](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/desafio-07)
 - Desafio-07: Descobrir quais estudantes estão fazendo a prova do ENEM 2016 apenas para treino.
 
-### [Semana 10](https://github.com/ivanferreirajr/aceleradev-ds)
-- Projeto Final: Em breve...
+### [Semana 10](https://github.com/ivanferreirajr/aceleradev-ds/tree/master/projeto-final)
+- Projeto Final: O objetivo deste desafio é fornecer um serviço automatizado que recomenda leads para um usuário dado sua atual lista de clientes (Portfólio).
